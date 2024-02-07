@@ -1,0 +1,13 @@
+@import url(https://use.fontawesome.com/releases/v5.6.3/css/all.css);
+
+.button {
+    cursor: pointer;
+    outline: none;
+    display: inline-block;
+    border: 2px solid rgb(51 51 51);
+}
+
+.button:hover {
+    color: rgb(251 251 251);
+    background: rgb(0 102 0);
+}
