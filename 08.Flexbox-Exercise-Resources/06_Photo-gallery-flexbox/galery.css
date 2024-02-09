@@ -1,0 +1,32 @@
+
+body {
+    width: 70vw;
+    margin: 0 auto;
+}
+
+body, ul, li {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul {
+    justify-content: space-between;
+    gap: 2em;
+}
+
+li {
+    border: 10px solid #000;
+}
+
+img {
+    padding: 1em;
+    display: flex;
+    display: block;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+.gallery {
+    max-width: 50em;
+    margin: 0 auto;
+}

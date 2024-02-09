@@ -1,0 +1,29 @@
+
+body {
+    padding: 2em;
+    margin: 0;
+
+}
+
+header {
+    border-bottom: 2px solid rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+}
+
+header > p {
+    font-size: 30px;
+    margin: 0;
+}
+
+ul {
+    display: none;
+    display: flex;
+    align-content: flex-end;
+    list-style: none;
+}
+
+a {
+    padding: 100px 20px 100px 20px;
+}
+
